@@ -15,7 +15,7 @@ Sobre a aplicação:
 
 Sobre o front end: não existe nenhuma diretriz específica. Use HTML, CSS e JS quando necessário. Se quiser usar mais que isso, sem problemas, garanta que tudo estará funcionando no final.
 
-###Deverá obrigatoriamente utilizar Ruby on Rails como base do Backend da sua aplicação.###
+###Deverá obrigatoriamente utilizar Ruby on Rails como base do Backend da sua aplicação.
 
 Quanto a infra-estrutura, a sua aplicação deve estar publicada na internet e seu código deve estar acessível em sua conta do Github. Não iremos considerar a entrega de uma aplicação que não esteja publicada e de um código que não esteja no Github, de modo que possamos avaliar a evolução do seu código. Caso não esteja habituado com nenhuma hospedagem gratuita, sugerimos o Heroku (https://www.heroku.com/), pois ele é um Plataform as a Service onde você faz o deploy da sua app, sem precisar se preocupar com questões de SO do servidor, além de ter várias ferramentas que facilitam a publicação da sua app.
 

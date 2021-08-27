@@ -19,11 +19,11 @@ Sobre o front end: não existe nenhuma diretriz específica. Use HTML, CSS e JS 
 
 Quanto a infra-estrutura, a sua aplicação deve estar publicada na internet e seu código deve estar acessível em sua conta do Github. Não iremos considerar a entrega de uma aplicação que não esteja publicada e de um código que não esteja no Github, de modo que possamos avaliar a evolução do seu código. Caso não esteja habituado com nenhuma hospedagem gratuita, sugerimos o Heroku (https://www.heroku.com/), pois ele é um Plataform as a Service onde você faz o deploy da sua app, sem precisar se preocupar com questões de SO do servidor, além de ter várias ferramentas que facilitam a publicação da sua app.
 
-Quanto aos critério de avaliação, você será avaliado por uma banca de pelo menos 3 pessoas, que poderão votar de 1 a 5 nos seguintes critérios:
+### Quanto aos critério de avaliação, você será avaliado por uma banca de pelo menos 3 pessoas, que poderão votar de 1 a 5 nos seguintes critérios:
 
-Boas práticas: qualidade de código, legibilidade, aplicação de patterns, dentre outros;
-Execução: aderência ao escopo solicitado e interação durante o projeto;
-Usabilidade: qualidade da interface e avaliação da experiência do usuário.
+* Boas práticas: qualidade de código, legibilidade, aplicação de patterns, dentre outros;
+* Execução: aderência ao escopo solicitado e interação durante o projeto;
+* Usabilidade: qualidade da interface e avaliação da experiência do usuário.
 
 Para apresentação do resultado do desafio, você deverá agendar um horário onde irá explicar tudo o que você fez, com foco nos três critérios citados: boas práticas, execução e usabilidade.
 
